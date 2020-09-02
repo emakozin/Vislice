@@ -1,5 +1,5 @@
 # Vislice
 
-Jurij Vega
+Borut Pahor
 Ivan Vidav
 Ema Kozin lol
